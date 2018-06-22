@@ -1,0 +1,14 @@
+{
+  "name": "vaina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autosync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}

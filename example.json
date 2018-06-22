@@ -1,0 +1,14 @@
+{
+  "source": "C:\\Users\\Peruapps\\Documents\\vaina\\uno",
+  "folders": [
+    "xxx",
+    "yyy"
+  ],
+  "destination": "C:\\Users\\Peruapps\\Documents\\vaina\\dos",
+  "patterns": [
+    ".dll$", 
+    ".exe$", 
+    ".pdb$",
+    ".txt$"
+  ] 
+}
